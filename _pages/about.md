@@ -7,27 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-# Meet Your Sixth Grade Computer Teacher
+# My name is Silly
 
-Hello, young tech enthusiasts! 👋
+hi lol
 
-![foo-bar-identity.jpg](https://daviddhc20120601.github.io/academicpages.github.io/images/foo-bar-identity.jpg)
+![foo-bar-identity.jpg](https://staticdelivery.nexusmods.com/mods/2751/images/thumbnails/798/798-1600863312-1511229545.jpeg)
 
-I'm thrilled to introduce your incredible Sixth Grade Computer Teacher, Mr. Daviddhc20120601! He's not just any teacher; he's a digital wizard who will guide you through the exciting world of computer science and technology.
+i am silly, a silly willy nilly. im goofy and weird, and not a single sould be spared; from my autistic jokes and among us references, offensive memes and wrong tenses. lmao
+## About silly
 
-## About Mr. Daviddhc20120601
-
-👩‍🏫 **Name:** Mr. Daviddhc20120601
+👩‍🏫 **Name:** silly
 
 🏫 **Grade:** Sixth Grade
 
-🖥️ **Subject:** Computer Science
+🖥️ **Subject:** Art 
 
-With a passion for all things tech and years of experience in making coding, programming, and digital creativity accessible to young minds, Mr. Daviddhc20120601 is here to make learning about computers a blast!
+i hope you laugh at my autism lol
 
 ## What to Expect
 
-In Mr. Daviddhc20120601's class, you'll embark on an epic journey into the realms of programming, web development, and all the fun aspects of technology. You'll get hands-on experience with computers, learn to code, and even create your own digital masterpieces. Mr. Daviddhc20120601's class is the gateway to a world of endless possibilities.
-
-So, get ready to explore, learn, and code your way to success under the expert guidance of Mr. Daviddhc20120601. Your computer adventure is about to begin!
-
+not a lot, just some guy who's goofy.
+so get ready to consume some IMPOSSIBLE burgers tm and we shall go to the realm of silly
