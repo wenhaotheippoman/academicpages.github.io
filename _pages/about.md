@@ -28,3 +28,6 @@ i hope you laugh at my autism lol
 
 not a lot, just some guy who's goofy.
 so get ready to consume some IMPOSSIBLE burgers tm and we shall go to the realm of silly
+## Discord Bot
+
+https://wenhaotheippoman.github.io/academicpages.github.io/flowerpot/ 
