@@ -5,12 +5,18 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Button Redirect</title>
+</head>
+<body>
+  <button onclick="redirectToWebsite()">Go to Mr. Flower Pot</button>
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">i'm silly, some random guy from Endeavour Primary School</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+  <script>
+    function redirectToWebsite() {
+      window.location.href = "https://wenhaotheippoman.github.io/academicpages.github.io/flowerpot/";
+    }
+  </script>
+</body>
+</html>
