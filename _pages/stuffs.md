@@ -1,7 +1,8 @@
 ---
-permalink:/wipinfo/
-title:/progress/
-
+permalink: /wipinfo/
+title: "progress"
+modified: 2023-11-10
+---
 
 ## Mr. Flower Pot - Work in Progress (WIP)
 Mr. Flower Pot is currently a work in progress (WIP) project, undergoing continuous development and refinement to bring you the best possible experience. While the bot is already equipped with a charming personality and a range of features, the development team is dedicated to further enhancing its capabilities.
