@@ -22,20 +22,21 @@ i am silly, a silly willy nilly. im goofy and weird, and not a single sould be s
 
 🖥️ **Subject:** Art 
 
-i hope you laugh at my autism lol
+i hope you laugh at my autism lol. I'm outgoing, i swear to everlasting craps of god. Also help me i hate blox fruits but i just play it for no reason 😭
 
 ## What to Expect
 
 not a lot, just some guy who's goofy.
+i like art and i am working on a discord bot with my friend, Akshaay.
 so get ready to consume some IMPOSSIBLE burgers tm and we shall go to the realm of silly
-## WIP progress
+## WIP progress for the Discord Bot.
 
 <html>
 <head>
   <title>Button Redirect</title>
 </head>
 <body>
-  <button onclick="redirectToPage()">Learn More about Mr. Flower Pot's Progress</button>
+  <button onclick="redirectToPage()">Flower Power Progress</button>
 
   <script>
     function redirectToPage() {
