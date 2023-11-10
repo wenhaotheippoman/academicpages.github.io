@@ -3,10 +3,18 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
----
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Button Redirect</title>
+</head>
+<body>
+  <button onclick="redirectToPage()">Visit Mr. Flower Pot's Page</button>
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+  <script>
+    function redirectToPage() {
+      window.location.href = "https://wenhaotheippoman.github.io/academicpages.github.io/falaower/";
+    }
+  </script>
+</body>
+</html>
