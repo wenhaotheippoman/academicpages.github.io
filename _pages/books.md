@@ -1,8 +1,14 @@
 ---
-title: "books"
-excerpt: "books from me"
+title: "byebye"
+excerpt: "goodbyes"
 sitemap: true
-permalink: /books/
+permalink: /gbs/
 ---
 
-here are the books from me
+here are the byes from me
+Mr flower pot says bye
+Silly says bye
+Mita says bye
+vatent says bye
+habiq says bye 
+Bye!!!!! lmao
