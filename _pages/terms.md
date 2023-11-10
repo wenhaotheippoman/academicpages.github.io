@@ -1,6 +1,6 @@
 ---
 permalink: /falaower/
-title: "Terms and Privacy Policy"
+title: "about him"
 modified: 2016-06-06
 ---
 
