@@ -30,18 +30,17 @@ not a lot, just some guy who's goofy.
 so get ready to consume some IMPOSSIBLE burgers tm and we shall go to the realm of silly
 ## WIP progress
 
-
 <html>
 <head>
   <title>Button Redirect</title>
 </head>
 <body>
-  <button onclick="redirectToPage()">Learn More about Mr. Flower Pot</button>
+  <button onclick="redirectToPage()">Learn More about Mr. Flower Pot's Progress</button>
 
   <script>
     function redirectToPage() {
-      window.location.href = "https://wenhaotheippoman.github.io/academicpages.github.io/flowerpot/";
+      window.location.href = "https://wenhaotheippoman.github.io/academicpages.github.io/wipinfo/";
     }
   </script>
 </body>
-</html>/ 
+</html>
