@@ -7,33 +7,17 @@ modified: 2016-06-06
 {% include base_path %}
 {% include toc %}
 
-## Privacy Policy
+## Mr. Flower Pot - About Him
+Mr. Flower Pot is a digital companion designed to bring joy and utility to your online experience. With a charming personality and a bouquet of features, Mr. Flower Pot aims to brighten your day and make your interactions more delightful.
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+From engaging in insightful conversations to providing assistance in various tasks, Mr. Flower Pot is always there to lend a helping leaf. Whether you need a listening ear or a helpful hand, Mr. Flower Pot is ready to accompany you on your digital journey.
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+Embrace the enchanting presence of Mr. Flower Pot as it blossoms into a cherished companion in your digital world. Let its vibrant spirit and delightful nature add a touch of magic to your everyday interactions.
 
-### Log Files
+Discover the wonders of Mr. Flower Pot and let its charm and utility enhance your online experience like never before. Get ready to embark on a blooming adventure with Mr. Flower Pot by your side, as it brings a touch of floral joy to your digital realm.
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+## Welcome to the world of Mr. Flower Pot!
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
 
-All of this information is not linked to anything that is personally identifiable.
 
-### Cookies and Web Beacons
 
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
-
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
-
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
-
-#### Google Analytics
-
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
